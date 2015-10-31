@@ -1,0 +1,5 @@
+settings.py
+*.pyc
+dist/
+*.egg-info/
+.*pyc
